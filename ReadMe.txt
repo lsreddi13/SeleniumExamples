@@ -1,1 +1,1 @@
-this is sameple file to take the help
+this is sameple file to take the help.
